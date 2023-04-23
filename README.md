@@ -8,5 +8,7 @@ The user can add items to the user's list
 
 ![image](https://user-images.githubusercontent.com/91996303/233833191-37ad99f8-7c70-466e-8118-7b74732ffc99.png)
 
+![image](https://user-images.githubusercontent.com/91996303/233833354-1492279b-5b87-467f-84fa-24e4bcb11d75.png)
+
 ![image](https://user-images.githubusercontent.com/91996303/233833307-ea592f4e-3af1-45a6-9197-99e8ecb3c1f0.png)
 
