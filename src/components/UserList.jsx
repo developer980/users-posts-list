@@ -5,19 +5,18 @@ class UserList extends React.Component{
     render(){
         const { users } = this.props;
 
-        return(
-            users.map((user, index) =>
+        return (
+            <div className="user-list">
+            {users.map((user, index) =>
             {
                 return(
-                    <div className="user-list">
-                        <UserItem 
-                          name={user.name} 
-                          email={user.email} />
-                     <br></br>
-                    </div> 
+                    <UserItem 
+                    name={user.name} 
+                    email={user.email} />
                );
-            })
-           /* <div></div>*/
+            })}
+           {/* div></div> */}
+           </div>
         );
 
     }

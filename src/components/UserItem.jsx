@@ -18,7 +18,7 @@ class UserItem extends React.Component{
                     <h1>{ name }</h1><br></br>
                     <h4>{ email }</h4>
                     <p>{ salary }</p><br></br>
-                    <button className="unfriend" onClick={(event)=>{this.unfriend(event)}}>Unfriend</button>
+                    <button className="unfriend" onClick={(event)=>{this.unfriend(event)}}>Remove</button>
                 </div>
             </div> : null
         );

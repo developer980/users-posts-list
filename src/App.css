@@ -82,12 +82,13 @@ nav {
   transition: all, 0.25s;
 }
 .users-content {
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  justify-content: center; */
+  /* flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
-  padding-left: 15%;
-  padding-right: 15%;
+  justify-content: space-between; */
+  /* padding-left: 15%;
+  padding-right: 15%; */
   margin-top: 150px;
 }
 @media (max-width: 800px) {
